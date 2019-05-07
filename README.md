@@ -6,7 +6,7 @@ DPU TRD for Ultra96 FPGA [zcu100-revc]. This tutorial have implemented/build the
 
 Here is the downloadable file of the build, you can download and test it on Ultra96: https://drive.google.com/open?id=1k6Qx85yOmM3zNnACH_V_36utCF0KiOto
 
-For testing on Ultra96 [reference: DPU integration tutorial: https://github.com/Xilinx/Edge-AI-Platform-Tutorials/tree/master/docs/DPU-Integration] , 
+Steps for testing on Ultra96 [reference: DPU integration tutorial: https://github.com/Xilinx/Edge-AI-Platform-Tutorials/tree/master/docs/DPU-Integration] , 
 1. Copy the files from the above link into SD card [8GB or higher size]
 2. Plug it to your Ultra96, Connect the JTAG-UART [or UART dongle] with ultra96
 3. Connect the minidp display [monitor]
