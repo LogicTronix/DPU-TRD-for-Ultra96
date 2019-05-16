@@ -1,6 +1,7 @@
 # DPU-TRD-for-Ultra96
-This is DNNDK tutorial for ultra96 FPGA for implementing the DPU TRD design.
+![ScreenShot](https://github.com/LogicTronix/DPU-TRD-for-Ultra96/blob/master/edge-platform-DPU-integration-ultra96.png)
 
+This is DNNDK tutorial for ultra96 FPGA for implementing the DPU TRD design.
 
 DPU TRD for Ultra96 FPGA [zcu100-revc]. This tutorial have implemented/build the "Resnet50" and "Face_Detection" targeting the Ultra96 FPGA. For developing the build we followed the "DPU Integration" tutorial at github of Xilinx.
 
@@ -36,6 +37,6 @@ Mail: info@logictronix.com
 
 Similar build is also available on "desktop-stretch" and "desktop-buster" for demo test provided by https://www.xilinx.com/products/design-tools/ai-inference/ai-developer-hub.html#edge
 
-https://logictronix.com/our-resources/machine-learning-with-fpga/dpu-trd-for-ultra96/
+This Tutorial is explained more at out website https://logictronix.com/our-resources/machine-learning-with-fpga/dpu-trd-for-ultra96/
 
 #dnndk #neural #network #resnet50 #face_detection #dpu #trd #ultra96 #machine #learning
