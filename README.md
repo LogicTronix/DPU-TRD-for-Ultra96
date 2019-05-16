@@ -21,7 +21,7 @@ xrandr --output DP-1 --mode 800x600
 xset -dpms
 10. Change to the directory with the resnet50 application and execute the program. •	cd /media/card/resnet50 •	./resnet50.elf
 
-11.hange to the following directories with the face_detection application and execute the program.
+11.change to the following directories with the face_detection application and execute the program.
 
 cd /media/card/face_detection
 ./face_detection.elf
